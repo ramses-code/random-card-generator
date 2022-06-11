@@ -1,1 +1,23 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: darkgreen;
+}
+.container {
+  padding-top: 15px;
+  border: dashed 1px white;
+  height: 30rem;
+  width: 22rem;
+  border-radius: 15px;
+}
+.row {
+  border-radius: 15px;
+}
+.top-s {
+  font-size: 80px;
+}
+.numero {
+  font-size: 80px;
+}
+.bottom-s {
+  font-size: 80px;
+  transform: rotate(180deg);
+}
